@@ -1,3 +1,5 @@
+Sample code to deploy to Azure App Service using Maven and from terminal
+
 1- Login from terminal first
 
 Az Login
